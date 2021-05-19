@@ -1,1 +1,28 @@
-/* styles go here */
+fieldset {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+.first {
+  margin-bottom: 14px;
+}
+
+.last {
+  margin-bottom: 1px;
+}
+
+.last-regist {
+  margin: 0;
+}
+
+[type="range"] {
+  margin-top: 11px;
+  margin-bottom: 1px;
+}
+
+[name="recommendation"] {
+  margin-top: 10px;
+}
