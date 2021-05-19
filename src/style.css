@@ -6,21 +6,21 @@ input {
   margin-bottom: 10px;
 }
 
-.first {
+[name="answer"] {
   margin-bottom: 14px;
 }
 
-.last {
+[name="agreement"] {
   margin-bottom: 1px;
 }
 
-.last-regist {
+[name="password"] {
   margin: 0;
 }
 
 [type="range"] {
   margin-top: 11px;
-  margin-bottom: 1px;
+  margin-bottom: 5px;
 }
 
 [name="recommendation"] {
